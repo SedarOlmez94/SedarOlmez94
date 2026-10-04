@@ -44,7 +44,7 @@
 
 ### 📦 Packages & Crates
 
-**[Clive-CLI](https://crates.io/crates/clive-llm)** — [short description, e.g. an LLM-powered command-line tool written in Rust]
+**[Clive-CLI](https://crates.io/crates/clive-llm)** — [an LLM-powered command-line tool written in Rust]
 
 [![Crates.io](https://img.shields.io/crates/v/clive-llm?style=for-the-badge&logo=rust&logoColor=white&label=crates.io)](https://crates.io/crates/clive-llm)
 [![Downloads](https://img.shields.io/crates/d/clive-llm?style=for-the-badge&logo=rust&logoColor=white&label=downloads)](https://crates.io/crates/clive-llm)
